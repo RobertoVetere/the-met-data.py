@@ -1,0 +1,8 @@
+myvenv/
+.myvenv/
+
+collections/
+.collections/
+renaissance.json
+renoir.json
+extra.json
